@@ -178,7 +178,7 @@
        #navbar {
     background-color: #333; /* Black background color */
     position: fixed; /* Make it stick/fixed */
-    top: -50px; /* Hide the navbar 50 px outside of the top view */
+    top: -90px; /* Hide the navbar 50 px outside of the top view */
     width: 100%; /* Full width */
     transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
@@ -189,7 +189,7 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: 20px;
     text-decoration: none;
 }
 
@@ -556,7 +556,7 @@ ulx {
 	background:linear-gradient(rgba(68, 68, 68, 0.438) 10%, rgba(255, 255, 255, 0) 85%);
     list-style-type: none;
     margin: 0;
-    padding: 45px 1600px;
+    padding: 50px 50%;
     overflow: hidden;
 	position: absolute;
 }
